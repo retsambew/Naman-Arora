@@ -1,3 +1,3 @@
 ## Personal Portfolio
-It'll be active within a few days, and then its code will be publicly available.
+This is my personal portfolio, feel free to give any suggestions.
 Thanks for the visit. :)
